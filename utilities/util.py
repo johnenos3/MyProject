@@ -1,8 +1,8 @@
 """
-@package utilitie
+@package utilities
 
 Util class implementation
-All most commonly used utilitie should be implemented in this class
+All most commonly used utilities should be implemented in this class
 
 Example:
     name = self.util.getUniqueName()
@@ -10,7 +10,7 @@ Example:
 import time
 import traceback
 import random, string
-import utilitie.custom_logger as cl
+import utilities.custom_logger as cl
 import logging
 
 class Util(object):

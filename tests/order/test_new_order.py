@@ -1,7 +1,7 @@
-from sdfds.home.login_page import LoginPage
-from sdfds.order.order_page import OrderPage
-from utilitie.teststatus import TestStatus
-from sdfds.home.navigation_page import NavigationPage
+from pages.home.login_page import LoginPage
+from pages.order.order_page import OrderPage
+from utilities.teststatus import TestStatus
+from pages.home.navigation_page import NavigationPage
 import unittest
 import pytest
 import time
