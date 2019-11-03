@@ -76,3 +76,19 @@
 10/31/2019 02:16:12 PM - NavigationPage - INFO: Clicked on element with locator: //*[@id='menu-neworder']/div[2] locatorType: xpath
 10/31/2019 02:16:16 PM - OrderPage - INFO: Element found with locator: lazyUpload-input and  locatorType: class
 10/31/2019 02:16:16 PM - OrderPage - INFO: Sent data on element with locator: lazyUpload-input locatorType: class
+11/04/2019 12:39:13 AM - LoginPage - INFO: Element found with locator: //*[@id='id_esauth_myaccount_login_link'] and  locatorType: xpath
+11/04/2019 12:39:15 AM - LoginPage - INFO: Clicked on element with locator: //*[@id='id_esauth_myaccount_login_link'] locatorType: xpath
+11/04/2019 12:39:15 AM - LoginPage - INFO: Element found with locator: //*[@id='id_esauth_login_field'] and  locatorType: xpath
+11/04/2019 12:39:17 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='id_esauth_login_field'] locatorType: xpath
+11/04/2019 12:39:17 AM - LoginPage - INFO: Element found with locator: //*[@id='id_esauth_pwd_field'] and  locatorType: xpath
+11/04/2019 12:39:17 AM - LoginPage - INFO: Sent data on element with locator: //*[@id='id_esauth_pwd_field'] locatorType: xpath
+11/04/2019 12:39:17 AM - LoginPage - INFO: Element found with locator: //*[@id='id_esauth_login_button'] and  locatorType: xpath
+11/04/2019 12:39:17 AM - LoginPage - INFO: Clicked on element with locator: //*[@id='id_esauth_login_button'] locatorType: xpath
+11/04/2019 12:39:22 AM - NavigationPage - INFO: Element found with locator: icon-header_menu and  locatorType: class
+11/04/2019 12:39:23 AM - NavigationPage - INFO: Clicked on element with locator: icon-header_menu locatorType: class
+11/04/2019 12:39:23 AM - NavigationPage - INFO: Element found with locator: //*[@id='af-smart-banner']/div[1] and  locatorType: xpath
+11/04/2019 12:39:23 AM - NavigationPage - INFO: Clicked on element with locator: //*[@id='af-smart-banner']/div[1] locatorType: xpath
+11/04/2019 12:39:23 AM - NavigationPage - INFO: Element found with locator: //*[@id='menu-neworder']/div[2] and  locatorType: xpath
+11/04/2019 12:39:24 AM - NavigationPage - INFO: Clicked on element with locator: //*[@id='menu-neworder']/div[2] locatorType: xpath
+11/04/2019 12:39:27 AM - OrderPage - INFO: Element found with locator: lazyUpload-input and  locatorType: class
+11/04/2019 12:39:27 AM - OrderPage - INFO: Sent data on element with locator: lazyUpload-input locatorType: class
